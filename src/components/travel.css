@@ -1,0 +1,14 @@
+.card{
+    max-width: 770px
+}
+.card-title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.card-header{
+    color: grey ;
+}
+.img-fluid{
+    height: 230px;
+    
+}
